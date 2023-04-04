@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectDescription>
+	<name>RiscMotor1</name>
+	<comment/>
+	<projects>
+		<project>CH32V203F8P6</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>

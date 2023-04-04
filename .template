@@ -1,0 +1,12 @@
+
+Vendor=WCH
+MCU=CH32V203F8P6
+Mcu Type=CH32V20x
+Link=WCH-Link
+Address=0x08000000
+Target Path=build\Debug\RiscMotor1.hex
+Erase All=false
+Program=false
+Verify=false
+Reset=false
+CLKSpeed=1
